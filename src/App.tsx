@@ -3,7 +3,9 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <pre className="App">
+  return <div className="App">
+    {/* I-bob BO’I, UAH [1-40] (40)
+
 1. Algoritm deb, …
 ====
 qo’yilgan masalani yechish uchun ma’lum qoidaga binoan bajariladigan amallarning chekli qadamlar ketma-ketligiga aytiladi.
@@ -150,13 +152,13 @@ tarmoqlanuvchi algoritmlar
 
 13. Algebraik va tratsending tenglamalarni taqribiy yechishda oraliqlarni aniqlash.
 ====
-{/* Agar biror [a,b] oraliqda y = f(x) funktsiya uzluksiz bo’lib, f(a)*f(b)<0 bo’lsa, shu oraliqda f(x)=0  tenglamaning kamida bitta ildizi mavjud bo’ladi. */}
+Agar biror [a,b] oraliqda y = f(x) funktsiya uzluksiz bo’lib, f(a)*f(b)<0 bo’lsa, shu oraliqda f(x)=0  tenglamaning kamida bitta ildizi mavjud bo’ladi.
 ====
-{/* f(x)=0 tenglama berilgan biror [a;b] oraliqda f(a)*f(b)<0 bo’lsa, tenglamaning oraliqda bi necha yechimlari mavjud. */}
+f(x)=0 tenglama berilgan biror [a;b] oraliqda f(a)*f(b)<0 bo’lsa, tenglamaning oraliqda bi necha yechimlari mavjud.
 ====
-{/* Agar biror [a,b] oraliqda y = f(x) funktsiya uzluksiz bo’lib, f(a)•f(b)>0 bo’lsa, shu oraliqda f(x)=0  tenglamaning kamida bitta ildizi mavjud bo’ladi. */}
+Agar biror [a,b] oraliqda y = f(x) funktsiya uzluksiz bo’lib, f(a)•f(b)>0 bo’lsa, shu oraliqda f(x)=0  tenglamaning kamida bitta ildizi mavjud bo’ladi.
 ====
-{/* Agar biror [a,b] oraliqda y = f(x) funktsiya uzluksiz bo’lib, f(a)•f(b)<0 bo’lsa, shu oraliqda f(x)=0  tenglamaning bitta ildizi mavjud bo’ladi. */}
+Agar biror [a,b] oraliqda y = f(x) funktsiya uzluksiz bo’lib, f(a)•f(b)<0 bo’lsa, shu oraliqda f(x)=0  tenglamaning bitta ildizi mavjud bo’ladi.
 
 ++++
 
@@ -1152,7 +1154,7 @@ Y=0.4x+1
 i: [0; 1; 2; 3; 4; 5]
 ai: [0.003; 0.0001; 0.6; 0.0003; 0.0001; 0.0001]
 bi: [-; 0.0002; 0.8; 0.0002; 0.0004; 0.0001]
-{/* T=0.6; ci<<c2 , i>5 bo’lsa. */}
+T=0.6; ci<<c2 , i>5 bo’lsa.
 ====
 C2=1; w2=21; f2=arctg(3/4)
 ====
@@ -1168,7 +1170,7 @@ C2=1.4; w2=12; f2=arctg(0.75)
 i: [0; 1; 2; 3; 4; 5]
 ai: [0.3; 0.0003; 0.0004; 1.2; 0.0002; 0.0007]
 bi: [-; 0.0001; 0.0002; 0.9; 0.0004; 0.0001]
-{/* T=0.5; ci<<c3 , i>5 bo’lsa. */}
+T=0.5; ci<<c3 , i>5 bo’lsa.
 ====
 3- garmonika C3=1,5; w3=37.7
 ====
@@ -1269,7 +1271,7 @@ Oraliqda funksiya qiymatining modul bo’yicha eng kattasi orqali.
 
 105. Bazis funksiyalarning qanday sistemasi ortonormallashgan deb nomlanadi?
 ====
- {/* Agar barcha  (fi, fj) = {0, i≠j bo’lsa; 1, i=j bo’lsa} */}
+ Agar barcha  (fi, fj) = {0, i≠j bo’lsa; 1, i=j bo’lsa}
 ====
 Agar barcha  (fi, fj) = 0, i≠j bo’lsa.
 ====
@@ -1305,13 +1307,13 @@ Agar  ak≠0  va  bk≠0  bo’lsa, Fur’e qatori yig’indisi garmonika bo’l
 
 108. Fur’e qatorining yetakchi garmonikasi qanday aniqlanadi?
 ====
- {/* Agar  i≠k  da  ck>>ci  bo’lsa, u holda  k- garmonika yetakchi bo’ladi. */}
+ Agar  i≠k  da  ck>>ci  bo’lsa, u holda  k- garmonika yetakchi bo’ladi.
 ====
-{/* Agar  i≠k  da  ck>ci  bo’lsa, u holda  k- garmonika yetakchi bo’ladi. */}
+Agar  i≠k  da  ck>ci  bo’lsa, u holda  k- garmonika yetakchi bo’ladi.
 ====
 Agar  ck≠0  bo’lsa, u holda  k- garmonika yetakchi bo’ladi.
 ====
-{/* Agar  ck>1  bo’lsa, u holda  k- garmonika yetakchi bo’ladi. */}
+Agar  ck>1  bo’lsa, u holda  k- garmonika yetakchi bo’ladi.
 
 ++++
 
@@ -1598,7 +1600,7 @@ Agar pastki kalit qiymati yuqoridagi jufti kalitidan kichik bo'lsa, u holda ular
 
 ++++
 
-{/* 131.  Faraz qilaylik, N = 0,01n2 + 10n - taqqoslashlar soni. Agar n < 1000 bo'lsa, u holda ikkinchi qo'hiluvchi katta, aks holda ya'ni, n > 1000 bo'lsa, birinchi qo'shiluvchi katta bo'ladi. Demak, kichkina n larda taqqoslashlar soni n ga teng bo'ladi, katta n larda nimaga teng bo'ladi? */}
+131.  Faraz qilaylik, N = 0,01n2 + 10n - taqqoslashlar soni. Agar n < 1000 bo'lsa, u holda ikkinchi qo'hiluvchi katta, aks holda ya'ni, n > 1000 bo'lsa, birinchi qo'shiluvchi katta bo'ladi. Demak, kichkina n larda taqqoslashlar soni n ga teng bo'ladi, katta n larda nimaga teng bo'ladi?
 ====
 n2
 ====
@@ -1606,7 +1608,7 @@ n1
 ====
 n
 ====
-{/* n> */}
+n>
 
 ++++
 
@@ -2437,9 +2439,9 @@ N-top’lam ostilari soni, P-to’plam ostidagi elementlar soni
 
 ====
 
+ */}
 
-
-  </pre>;
+  </div>;
 }
 
 export default App;
