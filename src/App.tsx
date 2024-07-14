@@ -2437,6 +2437,1065 @@ N-top’lam ostilari soni, P-to’plam ostidagi elementlar soni
 
 <br/>
 
+<pre>
+Algoritmlarni loyihalash. Yakuniy nazorat savollari.
+Birinchi variant to'g'ri!
+Krustal algoritmiga ko’ra ustov(tayanch) daraxtni qidirish nimadan boshlanadi?
+eng arzon qirradan
+berilgan qirradan
+berilgan uchdan
+istalgan uchdan boshlash mumkin
+“Ajrat va hukmronlik qil” tamoyiliga ko’ra amallar sonini kamaytirish mumkin bo’lgan algoritm quyidagi masalalardan qaysi biriga tadbiq qilinishi mumkin?
+Sonli massiv elementlarini tartiblashtirish
+Chiziqli algebraik tenglamalar sistemasini yechish
+chiziqli dasturlash masalasi optimal yechimni topish
+Graflarda kerakli marshrutlarni tanlash
+“Ajrat va hukmronlik qil” tamoyiliga ko’ra bir qancha parallel hisoblash bloklariga ajratish mumkin bo’lgan masalani ko’rsating.
+Matritsalarning ko’paytmasini hisoblash
+Matritsalarni qo’shish
+Vektorlarning skalyar ko’paytmasi
+Aniq integralni taqribiy hisoblash
+Algoritmlashda “dag’al kuch tamoyili” qanday asosda amalga oshiriladi?
+Berilgan masalani imkoniyati bo’lsa ikki yoki undan ortiq mustaqil ishlanadigan qismlarga ajratish
+Berilgan masalani yechish algoritmini siklik jarayonga keltirish
+Berilgan masala yechimini tarmoqlanuvchi jarayonga keltirish
+To’g’ri javob yo’q
+”Hasis algoritmlar” ga ko’ra graf daraxtlari orasidan qandayi qidiriladi?
+Qirralari narxlari eng anzoni
+Berilgan uchidan chiqqanlari
+Berilgan uchidan boshlangani
+To’g’ri javob yo’q
+Krustal algoritmiga ko’ra ustov(tayanch) daraxtni qidirish nimadan boshlanadi?
+eng arzon qirradan
+Berilgan qirradan
+Berilgan uchdan
+Istalgan uchdan boshlash mumkin
+Prima algoritmiga ko’ra ustov(tayanch) daraxtni qidirish nimadan boshlanadi?
+Ixtiyoriy uchidan
+Berilgan uchdan
+Berilgan qirradan
+To’g’ri javob yo’q
+Krustal algoritmiga ko’ra nima topiladi?
+Berilgan graf daraxtlari orasidan eng arzoni
+Berilgan graf uchun mumkin bo’lgan daraxtlar narxi
+Berilgan graf uchun shajara daraxti
+Shajara daraxti narxi
+Prima algoritmiga ko’ra nima topiladi?
+Berilgan graf daraxtlari orasidan eng arzoni
+Berilgan graf uchun mumkin bo’lgan daraxtlar narxi
+Berilgan graf uchun shajara daraxti
+Shajara daraxti narxi
+Graf qirralari narxlari matritsasiga ko’ra graf chizmasini tuzishni qanday boshlagan ma’qul?
+Eng yuqori karrali uchlaridan biridan
+Eng kichik karrali uchlaridan biridan
+Ixtiyoriy uchidan
+Ixtiyoriy qirrasidan
+Graflar uchun “Kommivoyajer masalasi”da nima topiladi?
+Berilgan graf uchun Gamilton sikllari orasidan harakat narxi eng arzoni
+Berilgan graf uchun barcha Gamilton sikllarini
+Barcha mumkin bo’lgan daraxtlar
+To’g’ri javob yo’q
+Quyidagi funksiyalardan qaysi biri rekursiv funksiya bo’ladi?
+y=sin(sin(sin(sinx)))
+y=a0xn + a1xn-1
+ + . . . + an-1x+an
+y=ex
+ sinx* sqrt(x)
+y=sqrt(sin2x+tg2x)
+Sonli massiv elementlarini tartiblash masalasiga “ajrat va hukmronlik qil” tamoyilini taqbiq qilsak amallar soni qanday bo’ladi?
+nlog2n tartibida
+n2
+ tartibida
+n3
+ tartibida
+n tartibida
+Quyidagi funksiyalardan qaysi biri rekursiv funksiya bo’ladi?
+sqrt(sqrt(sqrt(.....sqrt(x))))
+sqrt(x)∙sqrt(y)∙srqt(z)∙sqrt(w)
+sin(x)∙sin(y)∙sin(z);
+ex
+, ey
+, ez;
+Uchlari 9ta, qirralari 13ta bo’lgan graf daraxtida nechta qirra bo’ladi?
+89
+13
+12
+Uchlari 8ta, qirralari 12ta bo’lgan graf daraxtida nechta qirra bo’ladi?
+7811
+12
+Uchlari 9tabo’lgan to’liq grafda nechta qirra bo’ladi?
+36
+72
+81
+18
+Uchlari 9ta bo’lgan graf daraxtida nechta qirra bo’ladi?
+8
+36
+32
+16
+Quyidagi algoritmlardan qaysi biri P-algoritm (polynomial)ga misol bo’la oladi?
+Integrallarni taqribiy hisoblashda Simpson formulasi
+Determinantni hisolash
+Sistemalarni yechishda Kramer usuli
+Barcha javoblar to’g’ri
+Quyidagi algoritmlardan qaysi biri NP-algoritmga misol bo’la oladi?
+Chiziqli algebraik tenglamalar sistemasini yechishda Kramer usuli
+Ko’phad qiymatini hisoblashda Gorner sxemasi
+Algebraik tenglamalarni taqribiy yechishda vatarlar usuli
+Chiziqli dasturlash masalasi tayanch yechimlarini topish algoritmi
+Saralashning turlarini ko’rsating?
+Qat’iy usul , yaxshilangan usul;
+Qat’iy usul, murakkab usul;
+Yaxshilangan usul, sodda usul
+Sodda usul, murakkab usul
+64 ta elementdan iborat sonli massivni tartiblashtirish uchun nechta taqqoslash amalini bajarish kerak?
+632
+63∙64
+642
+63+64
+32 ta elementdan iborat sonli massivni tartiblashtirish uchun nechta taqqoslash amalini bajarish kerak?
+312
+31∙32
+322
+32∙log232
+64 ta elementdan iborat sonli massivni tartiblashtirishni “ajrat va hukmronlik qil” tamoyiliga ko’ra bajarsak nechta taqqoslash amalini bajarish kerak?
+64∙log264
+64∙63
+632
+642
+32 ta elementdan iborat sonli massivni tartiblashtirishni “ajrat va hukmronlik qil” tamoyiliga ko’ra bajarsak nechta taqqoslash amalini bajarish kerak?
+32∙log232
+32∙31
+322
+312
+Pufaksimon saralash algoritmi bu?
+n - 1 marta massivda quyidan yuqoriga qarab yurib kalitlar jufti-jufti bilan taqqoslanadi. Agar pastki kalit qiymati yuqoridagi jufti kalitidan kichik bo'lsa, u holda ularning o'rni almashtiriladi
+Bu algotirm rekursiv bo'lib, o'rtacha N*log2N ta solishtirish natijasida saralaydi.
+Bu algoritm massivdagi har bir elementni qidirilayotgan element bilan birma-bir solishtirib chiqadi
+Eng kichik kalitga ega element tanlanadi. Ushbu element birinchi element bilan o"rin almashinadi.
+Quiksort - tez saralash algoritmi berilgan massivni saralash uchun uni nechtaga bo'lib oladi?
+2431Pn
+(x)= a0xn + a1xn-1
+ + . . . + an-1x+an
+ ko’phadning bir nuqtadagi qiymatini hisoblash uchun Gorner sxemasi bo’yicha nechta amal bajarish kerak?
+2n
+n(n+3)/2
+n(n+1)/2
+n(n-1)/2
+Pn
+(x)= a0xn + a1xn-1
+ + . . . + an-1x+an
+ ko’phadning bir nuqtadagi qiymatini hisoblash uchun Gorner sxemasi bo’yicha nechta amal bajarish kerak?
+n(n+3)/2
+n(n+1)/2
+n(n-1)/2
+2n
+Rekursiya deb nimaga aytiladi?
+Rekursiya deb shunday konstruktsiyag aytiladiki, funktsiya o'zini o'zi chaqiradi.
+Barcha element o'zidan keyingi elementga bo'glangan bo'ladi
+Saralanmagan massivni taqqoslashga asoslangan holda saralovchi
+Massivdagi har bir elementni qidirilayotgan element bilan birma-bir solishtirib chiqishga
+Binar qidiruv algoritmi(Ikkilik qidirish algoritmi)
+Ketma-ket ikkiga bo'lishga asoslanadi, ya'ni berilgan x ni massivning o'rtadagi elementi bilan solishtiradi, agar katta bo'lsa oxiri va o'rtasi orasidagi massivni oladi, agar kichkina bo'lsa boshi va o'rtasi orasidagi massivni
+oladi, va har safar shu jarayon takrorlanib boradi toki x element solishtirilayotgan massivning elementga teng bo'lgunicha yoki massivning elementlari qolmaguncha.
+Bu algotirm rekursiv bo'lib, o'rtacha n*log2n ta solishtirish natijasida saralaydi.
+Bu algoritm massivdagi har bir elementni qidirilayotgan element bilan birma-bir solishtirib chiqadi.
+n - 1 marta massivda quyidan yuqoriga qarab yurib kalitlar jufti-jufti bilan taqqoslanadi. Agar pastki kalit qiymati yuqoridagi jufti kalitidan kichik bo'lsa, u holda ularning o'rni almashtiriladi
+Uchlari 10 ta bo’lgan to’liq grafda Gamilton sikllarini necha xil usulda tuzish mumkin?
+N=10!
+N=102
+N=103
+N=10∙9
+Uchlari 10 ta bo’lgan to’liq grafdagi barcha Gamilton sikllari bo’yicha harakat narxlarini hisoblash uchun qancha qo’shish amalini bajarish kerak bo’ladi?
+N=9∙10!=32659200
+N=102=100
+N=10!=3628800
+N=103=1000
+"
+A(n x m) matritsa elementlari orasidan eng kattasini topish jarayonini parallel ko’p prossersorli hisoblash markazida parallel hisoblash jarayoniga ajratishni qanday bajarish mumkin?
+"
+Matritsa qatori elementlaridan eng kattasini topish di, i=1,2….,n. So’ngra di lar ichidan eng kattasi topiladi turli prosessorlarda topiladi
+Karrali sikli bo’lgan dastur asosida
+Bajarib bo’lmaydi
+To’g’ri javob yo’q
+Agar masala tartibini belgilovchi n-parametr bo’lib uni yechish uchun sarflanadigan amallar soni qanday bo’lganida algoritm P-algoritm deyiladi?
+Amallar soni N=Pk
+(n) ko’phad bo’lib k-o’zgarmas n ga bog’liq bo’lmasa
+Masala yechimi ko’phadlar orqali topilsa
+Masala yechimini topish uchun amallar soni n- ning biror f(n) funksiyasi sifatida ifodalansa
+To’g’ri javob yo’q
+Quyidagi algoritmlardan qaysi biri NP-algoritmga misol bo’la oladi?
+Faktorial (n!) ni hisoblash algoritmi
+Tenglamalarni yechishning Nyuton usuli
+Integrallarni taqribiy hisoblashda trapetsiyalar formulasi
+Chziqli dasturlash masalasilarni yechishda simpleks usuli
+Saralash samaradorligini qaysi mezonlar bo’yicha baholash mumkin?
+Barcha javoblar to’g’ri
+dasturni ishlab chiqishga ketgan vaqt.
+saralash uchun talab qilingan operativ xotira;
+saralashga ketgan vaqt;
+Bo'lib tashla va hukmronlik qil algoritmlari nechta bosqichdan iborat bo'ladi va ular qanday nomlanadi?
+"
+3ta bosqichdan iborat 1&#41; Bo'lib tashlash bosqichi 2&#41; Hukumronlik bosqichi 3&#41; Birlashtirish bosqichi
+"
+4ta bosqichdan iborat 1&#41; Bo'lib tashlash bosqichi 2&#41; Hukmronlik bosqichi 3&#41; Bo'ysundirish bosqichi 4&#41; Ajratish bosqichi
+2ta bosqichdan iborat 1&#41; Bo'lib tashla bosqichi 2&#41; Bo'ysundirish bosqichi
+2ta bosqichdan iborat 1&#41; Bo'lib tashla bosqichi 2&#41; Birlashtirish bosqichi
+Faraz qilaylik, N = 0,01n2 + 10n - taqqoslashlar soni. Agar n &lt; 1000 bo'lsa, u holda ikkinchi qo'hiluvchi katta, aks holda ya'ni, n &gt; 1000 bo'lsa, birinchi qo'shiluvchi katta bo'ladi. Demak, kichkina n larda taqqoslashlar soni
+n ga teng bo'ladi, katta n larda nimaga teng bo'ladi?
+n2
+n+ 1
+n
+2n
+Ichki va tashqi saralash nimasi bilan farq qiladi?
+Ichki saralash ishga tushishdan oldin bevosita ОЗУ dan foydalanadi, tashqi saralash xotira qurilmalarini kattagina qismidan foydalanadi;
+Ichki saralash ishga tushidan oldin qo’shimcha belgilangan xotiradan foydalanmaydi, yani ko’p bora elmentlarga bevosita murajat qiladi, tashqi saralash qo’shimcha massivlarni talab qiladi.
+Ichki saralash ichki adresli ko’p joydan foydalanadi, tashqi saralash ko’satkichlarga murojat qiladi.
+Ichki saralash ichida ko’p bora ishlaydi, tashqi saralash esa uni chegarasigacha boradi.
+Alogoritmlarni vaqt bo'yicha baholash nimaga asoslanadi?
+" 1. Bajarilgan amallar soniga qarab.
+" " 1. Hisoblash formulalari murakkabligiga qarab.
+" " 1. Algoritm dasturi hajmiga qarab.
+" " 1. Oraliq va yakuniy natijalar egallagan hotira hajmiga qarab.
+"
+Alogoritmni hajm bo'yicha baholash nimaga asoslanadi?
+Boshlang'ich, oraliq va natija o'zgaruvchilar egallagan hotira hajmiga qarab.
+Hisoblash formulalari murakkabligiga qarab.
+Algoritm dasturi hajmiga qarab.
+Bajariladigan amallar soniga qarab.
+Algoritmning universalligi qanday tushiniladi?
+Berilgan turdagi har qanday masalaga tatbiq qilinishi.
+Universal algoritmlar bo'lmaydi
+Har qanday masalaga tatbiq qilinishi.
+Universal algoritm uchun doimo echim bo'lishi.
+Tejamkor algoritmlar nima bilan farqlanadi?
+Berilgan turdagi masalalarni yechish uchun eng kam amallar sarflashi bo'yicha.
+Algoritmlar uchun tejamkor sifati bo'lmaydi.
+Dasturning ixchamligi bo'yicha.
+Xotira hajmini kam band qilishi bo'yicha.
+Chiziqli algoritmlar qanday ajratiladi?
+Algoritm barcha bandlari berilgan tartibda bajarilishi bilan.
+Algoritmda faqat chiziqli formulalar ishlatilishi bilan.
+Turli chiziqlar grafiklarini chizish bilan.
+Algoritmlarda chiziqli sifati bo'lmaydi.
+Tarmoqlanuvchi algoritmlar nimasi bilan farqlanadi?
+Ma'lum shartlar bajarilishiga qarab algoritm biror bandini tanlash.
+Algoritm biror bandini qaytadan bajarishi bo'yicha.
+Algoritimda ikki yoki undan ortiq yo'nalishlar bo'yicha hisoblashlar olib borilsa.
+Biror masalani turli formulalar bo'yicha yechishi bilan.
+Algoritmlarning berilish usuli qanday?
+Matn bo'yicha.
+Barcha javoblar to'g'ri.
+Dastur yordamida.
+Blok-sxemalar orqali.
+Sikllik algoritmlar belgisi qanday?
+Algoritm ayrim bandlarining ko'p bor takrorlanishi bilan.
+Algoritmda faqat takrorlanuvchi bandlar bo'lishi bilan.
+Algoritmda bir xil formulalar takrorlanishi bilan.
+Barcha javoblar to'g'ri.
+Iteratsion sikllar qanday farqlanadi?
+Takrorlanish soni ma'lum shart bajarilguncha davom etadigan sikllar. Takrorlanish soni oldindan beriladigan sikllar. Takrorlanish soni cheklanmagan sikllar. To'g'ri javob berilmagan.
+Qo’yilgan masalani yechilishiga olib keluvchi aniq harakatlarning chekli ketma-ketligi nima deyiladi?
+Algoritm
+Dastur
+Masala
+Funksiya
+Tomonlari uzunligi a,b,c bo’lgan uchburchak yuzasini topish masalasini qaysi algoritm blok sxemasidan foydalaniladi.
+tarmoqlanuvchi
+takrorlanuvchi
+to’g’ri chiziqli
+barcha javob to’g’ri
+Algoritmlar maxsus geometrik figuralar yordamida tasvirlanishi nima deyiladi?
+Blok sxema
+So’zli algoritm
+Dastur kodi
+Diagramma
+Algoritmda kiruvchi ma’lumotlarning bajariladigan amallar soniga ma’lum bir qonuniyatlar asosida mos qo’yilishi nima deyiladi?
+Algoritmning asimptotik baholash
+Algoritm xatoligi
+Algoritm samaradorligi
+Dasturlashtirish
+Tanlab saralash algoritmining murakkablik bahosi qanday?
+O(n^2)
+O(NlogN)
+O(n^3)
+O(n)
+Quyidagi algoritmik baholashlarning qaysi biri eng kam vaqtda bajariladi?
+O(N)
+O(NlogN)
+O(N^3)
+O(N^2)
+Algoritm O(N) murakkablik bilan bajarilishida 1024 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?
+10240
+100
+1024
+500
+"
+Algoritm O(N) murakkablik bilan bajarilishida 256 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?
+"
+2048
+100
+1024
+500
+Algoritm O(NlogN) murakkablik bilan bajarilishida 160 s vaqt sarflasa, shu algoritm O(N^2) murakkablik bilan qancha vaqt sarflaydi?
+1024
+100
+10240
+500
+Algebraik va transendeng tenglamalarni taqribiy yechishda oraliqlarni aniqlash.
+Agar biror [a;b]oraliqda y=f(x) funktsiya uzluksiz bo’lib, f(a)*f(b)&lt;0 bo’lsa, shu oraliqda f(x)=0 tenglamaning kamida bitta ildizi mavjud bo’ladi.
+f(x)=0 tenglama berilgan biror [a;b] oraliqda f(a)*f(b)&lt;0 bo’lsa, tenglamaning oraliqda bir necha yechimlari mavjud.
+Agar biror [a;b] oraliqda y=f(x) funktsiya uzluksiz bo’lib, f(a)*f(b)&gt;0 o’lsa, shu oraliqda f(x)=0 tenglamaning kamida bitta ildizi mavjud bo’ladi.
+Agar biror oraliqda y=f(x) funktsiya uzluksiz bo’lib, f(a)*f(b)&lt;0 bo’lsa, shu oraliqda f(x)=0 tenglamaning bitta ildizi mavjud bo’ladi.
+x3+x-1=0 tenglamaning (0;1) oraliqdagi ildizini oraliqni teng ikkiga bo’lish usuli bo’yicha izlanayotgan bo’lsa 2 qadamdan keyin qanday qoladi?
+(0;0.25)
+(0.25;0.5)
+(0.5;0.75)
+(0.75;1)
+x4 – x - 1 = 0 tenglamaning (-1;0) oraliqdagi ildizini oraliqni teng ikkiga bo’lish usuli bo’yicha izlanayotgan bo’lsa 2 qadamdan keyin qanday qoladi?
+(-0.75;-0.5)
+(-0.25;0)
+(-1;-0.75)
+(-0.5;-0.25)
+ex
+ – 10x-2 = 0 funksiyani [-1;0] oraliqda taqribiy yechimini e=0.01 aniqlikda Urunmalar usuli bilan i=2 qadamdagi taqribiy yechini toping.
+-0.1104.
+0.1104.
+0.8124.
+-0.8124.
+ex
+ – 10x-2 = 0 funksiyani [-1;0] oraliqdagi ildizini topishda shart bajarilsa vatarlar usuli bilan i=2 qadamlar orasidagi xatoligini aniqlang.
+|x2
+-x1
+|=0.004
+|x2
+-x1
+|=0.0014
+|x2
+-x1
+|=0.00244
+|x2
+-x1
+|=0.003444
+x3
+ – 2x+2 = 0 tenglamaning (-2;-1) oraliqdagi ildizini oraliqni teng ikkiga bo’lish usuli bo’yicha izlanayotgan bo’lsa 2 qadamdan keyin qanday qoladi?
+(-2;-1,75)
+(-2,5;-2)
+(-1,75;-1,5)
+(-1,5;-1,25)
+x4 – x - 1 = 0 tenglamaning (-1;0) oraliqdagi ildizini Nyuton usuli bo’yicha izlaganda hisoblash formulasi qanday bo’ladi?
+xn+1
+ = (3xn4+xn+1)/(4xn3
+-1)
+xn+1
+ = (3xn4+2xn+1)/(4xn3
+-1)
+xn+1
+ = (3xn4+3xn+1)/(4xn3
+-1)
+xn+1
+ = (2xn4+xn+1)/(4xn3
+-1)
+x3 + x - 1 = 0 tenglamaning (0;1) oraliqdagi ildizini Nyuton usuli bo’yicha izlaganda hisoblash formulasi qanday bo’ladi?
+xn+1
+ = (2xn3
+-xn+1)/(3xn2+1)
+xn+1
+ = (xn3+xn
+-2)/(3xn2+1)
+xn+1
+ = (2xn3
+-2xn+1)/(3xn2+1)
+xn+1
+ = (3xn3
+-2xn+1)/(3xn2+1)
+Tenglamalarni Nyuton usulida taqribiy yechimlarini topish formulasi.
+xn+1
+ = xn
+- f(xn
+) / f’(xn) xn+1 = xn
+- f(xn
+) * (b - xn
+))/(f(b)- f(xn
+));
+xn+1 = xn - f(xn) * ( xn - b))/( f(xn) - f(a));
+xn+1 = xn + f(xn
+) * ( b - xn
+))/(f(b)- f(xn
+));
+f(x)=0 tenglamaning (a;b) oraliqdagi ildizini topishda f’(x)f”(x)&gt;0 shart bajarilsa vatarlar usuli formulasi qanday ko’rinishda bo’ladi?
+xn+1 = xn
+-(f(xn
+)(b- xn
+))/(f(b)- f(xn
+)); x0=a
+xn+1
+ = xn
+- f(xn
+) / f’(xn
+); x0=b
+xn+1 = xn
+-(f(xn
+)(a- xn
+))/(f(a)- f(xn
+)); x0=b
+xn+1
+ = xn
+- f(xn
+) / f’(xn
+); x0=a
+f(x)=0 tenglamaning (a;b) oraliqdagi ildizini topishda f’(x)f”(x) &lt; 0 shart bajarilsa vatarlar usuli formulasi qanday ko’rinishda bo’ladi?
+xn+1 = xn
+-(f(xn
+)(a- xn
+))/(f(a)- f(xn
+)); x0=b
+xn+1 = xn
+-(f(xn
+)(b- xn
+))/(f(b)- f(xn
+)); x0=a
+xn+1
+ = xn
+- f(xn
+) / f’(xn
+); x0=b
+xn+1
+ = xn
+- f(xn
+) / f’(xn
+); x0=a
+f(x)=0 tenglamaning (a;b) oraliqdagi ildizini vatarlar usulida izlanganda “a” nuqta qo’zg’almas bo’lishi uchun qanday shart bajarilishi kerak?
+f’(x) f”(x) &lt; 0
+f’(x) f”(x) &gt; 0
+f(a) f(b) &lt; 0
+f’(a) f’(b) &lt; 0
+f(x)=0 tenglamaning (a;b) oraliqdagi ildizini vatarlar usulida izlanganda “b” nuqta qo’zg’almas bo’lishi uchun qanday shart bajarilishi kerak?
+f’(x) f”(x) &gt; 0`
+f’(a) f’(b) &lt; 0
+f’(x) f”(x) &lt; 0
+f(a) f(b) &lt; 0
+[0;1] oraliqda f(x) = e-x*x
+ funksiyaning aniq integrali to’g’ri to’rtburchaklar formulasi bo’yicha h=0.01 qadam bilan hisoblansa xatolik tartibi qanday bo’ladi?
+O(0,01)
+O(0,0000001)
+O(0,0001)
+O(0,001)
+[a;b] oraliqda f(x) funksiyaning aniq integrali trapetsiyalar formulasi bo’yicha h=0.01 qadam bilan hisoblansa xatolik tartibi qanday bo’ladi?
+O(0,0001)
+O(0,000001)
+O(0,001)
+O(0,00001)
+[0;1] oraliqda f(x)=sinx2
+funksiyaning aniq integrali qiymatini Simpson formulasi bo’yicha O(10-4
+) aniqlikda hisoblash uchun h – qadamni qanday olish kerak?
+h=0,1
+h=0,01
+h=0,001
+h=0,05
+[0;1] oraliqda f(x)=cosx2
+funksiyaning aniq integrali qiymatini Simpson formulasi ko’ra h=0,1 qadam bilan hisoblasak xatolik qanday tartibda bo’ladi?
+O(10-4)
+O(10-3)
+O(10-2)
+O(10-1)
+[0;1] oraliqda f(x) = x3+x funksiyaning aniq integrali qiymatini h=0,5 qadam bilan Simpson formulasi bo’yicha hisoblasak xatolik qanday tartibda bo’ladi?
+O(0)
+O(0,1)
+O(0,01)
+O(0,001)
+Matematik programmalash masalasi chiziqli programmalash masalasi deyiladi, agarda
+maqsad funksiyasi chiziqli bo’lib, cheklovlar sistemasi chiziqli tengsizliklar yoki tenglamalardan iborat bo’lsa
+maqsad funksiyasi chiziqli bo’lib, cheklovlar sistemasi chiziqli bo’lmasa.
+cheklanishlar sistemasi chiziqli tengsizliklar yoki tenglamalardan iborat bo’lsa, maqsad funksiyasi chiziqli bo’lmasa.
+cheklanishlar sistemasi chiziqli tengsizliklar yoki tenglamalardan iborat bo’lsa, maqsad funksiyasi bo’lmasa.
+Chiziqli programmalash masalasining maqsadiga quyidagilar kiradi
+chiziqli cheklovlar bajarilganda funkciyaning eng kam(ko’p) qiymatini topish
+tanlangan dasturalash tilida berilgan masalani yechish uchun chiziqli dastur yozish
+Berilgan vazifani algoritmini tariflash
+nochiziqli cheklovlar mavjudligida funkciyaning eng kam(ko’p) qiymatini topish
+Chiziqli dasturlash masalasini Simpleks usulda yechishning mohiyati……
+optimal yechim rejasini olguncha davom ettiriladi
+Joriy yechimlar olinguncha davom ettiriladi.
+Joriy yechim rejasi olinguncha davom ettiriladi
+Joriy yechim natijasi olinguncha davom ettiriladi.
+Simpleks usul algoritmida jadval …. to’dirib boriladi.
+hal qiluvchi qatordan.
+hal qiluvchi ustundan
+birinchi hal qiluvchi qatordan
+ikkinchi hal qiluvchi qatordan
+Chiziqli dasturlash masalasi geometrik yechimi qabariq ko’pburchakining qanday nuqtalaridan topadi.
+ko’pburchakning barcha uchlari orasidan
+Ko’pburchakning faqat burchak va ichki nuqtalari
+Faqat ko’pburchakning balandliklarida yotuvchi nuqtalari.
+Faqat ko’pburchakning balandliklarida yotmaydigan nuqtalari.
+Chiziqli dasturlash masalasini yechimi topish asosida nimalarga e`tibor qaratish kerak.
+resurslar zahirasiga
+resurslar yetishmovchiligiga
+resurslar sifatiga
+resurslar qoldig’iga.
+Mumkin bo’lgan yechimlar to’plami ko’pburchagi uchlari nimani beradi.
+Ushbu ko’pburchak uchlari koordinatalari tayanch yechimlar deyiladi.
+Ushbu ko’pburchak uchlari koordinatalari optimal yechimlar deyiladi.
+Ushbu ko’pburchak uchlari koordinatalari notayanch yechimlar deyiladi.
+Ushbu ko’pburchak uchlari koordinatalari nooptimal yechimlar deyiladi.
+Chiziqli dasturlash masalasi yechishda, simpleks usul qo’llanilishi uchun chegaraviy shartlar qanday ko`rinishga keltirilishi kerak
+Kanonik ko’rinishga.
+Kompleks ko’rinishga .
+Kvadrat ko’rinishga.
+Trigonometrik ko’rinishga.
+Berilgan funksiyalardan qay biri chiziqli dasturlash masalasining maqsad funksiyasi bo’lishi mumkin?
+Fmin=12x1+20x2
+-30x3 Fmax=sqr(x1
+)-2x2 Fmin=sqrt(x12+x22) Fmax=3x1
+-4x2+sqrt(x3)
+Chiziqli dasturlash masalasining chegaraviy shartlariga хn+i, o’zgaruvchilar qanday ataladi:
+sun`iy o’zgaruvchilar
+ikkilangan o’zgaruvchilar
+boshlang’ich o’zgaruvchilar
+boshlang’ich va ikkilangan o’zgaruvchilar
+Simpleks jadvalining hal qiluvchi qatori va ustuni kesishmasida joylashgan aSl element nima deb elon qilinadi?
+Hal qiluvchi element
+Asosiy element
+Hal qiluvchi qator
+Tayanch element
+Simpleks algoritmida masalani yechish uchun avval …. ta basiz o’zgaruvchi tanlab olinishi zarur.
+m-
+35
+10
+Agarda xom ashyo sarflash masalasida biror bir xom ashyoni to’liq ishlatilish talab qilinsa shu xom ashyoga qanday chegara qo’yiladi
+chegaraviy shart tenglama ko’rinishida bo’ladi
+Qat`iy tengsizlik ko’rinishida beriladi
+tengsizlik ko’rinishida beriladi
+E`tiborga olinmaydi
+Chiziqli dasturlash masalasi grafik usulda ko’pburchak uchun yechim barcha chorakda mavjudmi?
+yo’q faqat I chorakda musbat qiymatli ko’pburchak uchun mavjud
+yo’q faqat manfiy qiymatli balandliklarga ega qavariq ko’pburchak uchun mavjud
+yo’q faqat II chorakga ega qavariq ko’pburchak uchun mavjud
+ha hammasi uchun mavjud
+Oxirgi simpleks jadval qaysi qatorida ikkilangan masalaning yechimlari bo’ladi
+Δj qatorda
+m - qatorda
+4- qatorda
+5- qatorda
+Chiziqli dasturlash masalasining mumkin bo’lgan yechimlar soxasi:
+bir vaqting o’zida barcha chegaraviy shartlarni qanoatlantiruvchi nuqtalar to`plami.
+Ba`zi chegaraviy shartlarni qanoatlantirishi kerak
+chegaraviy shartlarning eng katta qiymati bo’lishi kerak
+Maqsad funksiyani optimal qiymatlar bilan ta`minlashi kerak
+Simpleks jadvalida hal qiluvchi elementi qanday belgilanadi.
+aSl . bSl cSl fSl
+Simpleks jadvalining hal qiluvchi s- qatori va l- ustuni kesishmasida joylashgan element qanday belgilanadi?
+aSl . cSl bSl fSl
+Parhez masalasidagi maqsad funksiyadagi xj ..... anglatadi
+ozuqadagi j chi bioelement miqdori
+j xom ashyo zahirasini
+j chi oziq ovqat mavjud ingridientning zahirasini.
+j chi oziq ovqatdagi ortiqcha miqdori
+Parhez masalasidagi cheklovlar tengsizligida bi ..... anglatadi
+bir birlik ozuqadagi i chi ingridientning zahiradagi miqdorini
+bir birlik i homashyoning narhini
+i chi oziq ovqatdagi mavjud ingridientning miqdorini
+i chi oziq ovqatdagi ingridientlar miqdorini
+Parhez masalasidagi aij ..... anglatadi
+i chi ozuqadagi j ingridientning miqdori
+ozuqa turlari soni
+ozuqaning umumiy minimal og’irligi
+Bir birlik ozuqadagi j ingridientning minimal miqdori.
+Xom ashyoning sarflash masalasidagi aij ..... anglatadi
+j chi mahsulotni ishlab chiqarishga safrlangan i chi xom ashyo miqdorini
+j chi mahsulotni ishlab chiqarishga safrlangan i chi xom ashyo zahira miqdorini
+j chi mahsulotni sotishdagi foyda miqdorini
+j chi mahsulotni ishlab chiqarishga safrlangan i chi xom ashyo qoldiq miqdorini
+Korxona n turdagi maxsulotni ishlab chiqarishda m turdagi xom ashyodan foydalanadi va bu yerda zaxiralar nimaga teng bo’ladi
+b1
+, b2
+,…,bm ga
+а1
+, а2
+,…,аm. ga
+с1
+, с2
+,…,сm. ga
+a1
+, b2
+,…,cm. ga
+CHIZIQLI DASTURLASH MASALASI da j -chi maxsulotning bir birlik narxi nimaga teng bo’ladi……
+cj – ga
+аj – ga
+b j – ga
+dj – ga
+Agar Chiziqli dasturlash masalasida chegaraviy shart belgisi orqali berilgan bo`lsa u holda i- qo’shimcha o`zgaruvchi qaysi ko`rinishda kiritiladi
++x n+i - x n+i +i -i
+Agar Chziqli dasturlash masalasida chegaraviy shart belgisi orqali berilgan bo`lsa u holda i- qo’shimcha o`zgaruvchi qaysi ko`rinishda kiritiladi
+– x n+i
+x n+i
++i
+-i
+Agar Chziqli dasturlash masalasida хn+1
+, xn+2
+,…,xn+m, suniy no`malumlar qo`shilsa maqsad funksiyasi qanday o`zgaradi:
+maqsad funksiyasi o`zgarmaydi, chunki cn+i=0; i=1, 2,…,m ga teng.
+maqsad funksiyasi o`zgaradi, chunki cn+i=0; i=1, 2,…,m ga teng .
+maqsad funksiyasi o`zgarmaydi, chunki cn+i=0; i=1, 2,…,m ga teng emas. 
+maqsad funksiyasi o`zgaradi, chunki cn+i=0; i=1, 2,…,m ga mavjud emas.
+x4
+ , x5
+ sun`iy o’zgaruvchilarga ega bo’lgan kengaytirilgan chiziqli dasturlash masalasining optimal rejasi X=(1,1,1,0,0) bo’lsin. Birmlamchi masala uchun optimal reja qanday ko’rinishda bo’ladi
+X=(1,1,1).
+birlamchi masala optimal rejaga ega bo’lmaydi
+birlamchi masalaning chiziqli funksiyasi chegaralanmagan bo’ladi
+X=(1,0,0)
+Yetakchi garmonikani aniqlash nima uchun kerak bo’ladi?
+Signalning asosiy qismini ajratib olish uchun.
+Signalning grafigini tuzish uchun.
+Signalning amplitudasini aniqlash uchun.
+Signalning chastotasini aniqlash uchun.
+Fur’e qatorida garmonikalarning yetarlicha soni qanday aniqlanadi?
+Talab qilingan aniqlik tartibi bo’yicha ushbu aniqlikdan katta bo’lgan amplitudaga mos garmonikalar olib qolinadi.
+Bu boshida beriladi.
+Berilgan chastota bo’yicha.
+Qancha ko’p bo’lsa, shuncha yaxshi prinspi asosida.
+Jadval funksiya uchun Fur’e qatori koeffisientlarini aniqlashda qanday yaqinlashish me’zoni ishlatiladi?
+Jadval funksiya va Fur’e qatori ayirmasi kvadratining integral normasining minimallligi.
+Jadval funksiya va Fur’e qatori ayirmasi modulining minimallligi.
+Jadval funksiya va Fur’e qatori qiymatlarining ayirmasi modulining minimallligi.
+Jadval funksiya va Fur’e qatori qiymatlarining ayirmasi ixtiyoriy normasining minimallligi.
+Chiziqli va kvadratik modellar qanday masala uchun qo’llaniladi
+approksimatsiya
+Fur’e qatori
+ekstropolatsiya
+interpolatsiya
+Approksimatsiya – bu …
+yaqinlashtirish
+ajratish
+Bog’liqlik
+Natija olish
+Interpolatsiya – bu …
+Jadval qiymat bilan tenglik talabi
+Tashqi qiymatlarni aniqlash
+Bog’liqlik
+yaqinlashtirish
+Ekstropolatsiya – bu …
+Tashqi qiymatlarni aniqlash
+Bog’liqlik
+Ichki qiymatlarni aniqlash
+yaqinlashtirish
+Tajribalar o’tkazish orqali kuzatilgan kiruvchi X va chiquvchi Y qiymatlarni o’zaro bog’lashni o’rganish ... deyiladi.
+Iteratsiya
+Garmonika
+To’g’ri javob berilmagan
+Approksimatsiya
+Raqamli signallarni qayta ishlash va tahlil qilishda qanday bazis funksiyalardan foydalaniladi?
+Trigonometrik funksiyalardan.
+Darajali funksiyalardan.
+Ko’rsatkichli funksiyalardan.
+Kompleks o’zgaruvchili funksiyalardan.
+Nima uchun jadval funksiyani approksimatsiya qilinayotganda ikki parametrli bog’lanishli modellardan foydalaniladi?
+Tabiatda va texnikada murakkab modelli boshlanishlar juda kam uchrab turgani sababli.
+Hisoblashning soddaligi uchun.
+Tabiatda va texnikada boshqa bo’glanishli modellar uchramaganligi sababli.
+Bu modellar eng yaxshisi bo’lganligi sababli.
+Funksional to’plamlarda ortogonallik deganda nima tushuniladi?
+Berilgan oraliqda funksiyalarning ko’paytmalaridan olingan integralning nolga tengligi.
+Ularning grafiklarining kesishgan nuqtasida perpendikulyarligi
+Berilgan oraliqda ularning nisbatlaridan olingan integralning nolga tengligi.
+Funksiyaning bunday xossasi yo’q.
+Jadval funksiya uchun chiziqli model qanday ko’rinishda hosil qilinadi?
+Y = ax + b
+Y = ax2 + b
+Y = an – bx
+Y = ax3 + b
+Jadval funksiya uchun kvadratik model qanday ko’rinishda hosil qilinadi?
+Y = ax2 + bx + c
+Y = ax + b
+Y = an – bx2
+Y = xa2 + bx + c
+[A, B] oraliqda berilgan Xi ning qiymatlaridan iborat berilganlar nima deb nomlanadi?
+Tugun nuqtalar
+Funksiyaning qiymati
+Aniqlanish sohasi
+Oraliq nuqtalar
+y = f (x) berilgan funksiya bo’lsa. Argumentning fiksrlangan qiymatli orttirmasi qanday belgilanadi.
+Δx=h
+Δx=f(x)
+Δx=k
+Δx=k+1
+L2 da funksiyaning normasi qanday aniqlanadi?
+Oraliq bo’yicha funksiya kvadratlarining integrali orqali.
+Oraliq bo’yicha funksiya absolyut qiymatlarining integrali orqali.
+Oraliq bo’yicha funksiya integrali moduli orqali.
+Oraliqda funksiya qiymatining modul bo’yicha eng kattasi orqali.
+Qaysi holatlarda eng kichik kvadratlar usuli bo’yicha topilgan chiziqli bog’lanishli modeli maqulroq hisoblanadi?
+Jadval qiymatlar va chiziqli model (y=ax+b) ning ayirmalarining kvadrati berilgan aniqlikdan kichik bo’lsa.
+Kuzatuv (tajriba) qiymatlari juda ko’p miqdorda bo’lsa.
+Boshqa modellarni qo’llab bo’lmasa.
+Jadval qiymatlar va chiziqli model (y=ax+b) ning ayirmalari modul bo’yicha berilgan aniqlikdan kichik bo’lsa.
+"
+Quyidagi jadval funksiya uchun chiziqli model tuzilsin.
+x:[ –2; 0; 2; 4]
+y:[ 0; 2; 1; 3]
+"
+Y=0.4x+1.1
+Y=0.5x+1.4
+Y=0.5x+1
+Y=0.4x+1
+"
+Jadval funksiya (signal)ning Fur’e qatori koeffisentlari hisoblangan. Yetakchi garmonikalar amplitudasi, chastotasi boshlang’ich fazaning ko’chishi aniqlansin.
+i: [0; 1; 2; 3; 4; 5]
+ai: [0.003; 0.0001; 0.6; 0.0003; 0.0001; 0.0001]
+bi: [-; 0.0002; 0.8; 0.0002; 0.0004; 0.0001]
+T=0.6; ci&lt;&lt;c2 , i&gt;5 bo’lsa.
+"C2=1; w2=21; f2=arctg(3/4)
+C2=1; w2=6; f2=arctg(1/2)
+C2=0.8; w2=8; f2=arctg(0.8)
+C2=1.4; w2=12; f2=arctg(0.75)
+"
+. Jadval funksiya (signal)ning Fur’e qatori koeffisentlari hisoblangan. Yetakchi garmonikaning amplituda va chastotasi aniqlansin.
+i: [0; 1; 2; 3; 4; 5]
+ai: [0.3; 0.0003; 0.0004; 1.2; 0.0002; 0.0007]
+bi: [-; 0.0001; 0.0002; 0.9; 0.0004; 0.0001]
+T=0.5; ci&lt;&lt;c3 , i&gt;5 bo’lsa.
+"
+3- garmonika C3=1,5; w3=37.7
+3- garmonika C3=2; w3=37.7
+3- garmonika C3=1,5; w3=32
+3- garmonika C3=1,2; w3=37.7
+"
+Ushbu jadval funksiya uchun
+ti: [0; 0.1; 0.2; 0.3; 0.4]
+fi: [1; 1.3; 1.4; 1.2; 1]
+Fur’e koeffisientlari qanday topiladi?
+"
+Jadval funksiyani bo’lakli doimiylar ko’rinishida ifodalash orqali.
+Trapetsiya usuli yordamida taqribiy integrallash orqali.
+Interpolatsion polinomni taqribiy topish orqali.
+Integrallash uchun to’g’ri to’rtburchaklar formulasi orqali.
+Juft funksiyalarni Fur’e qatoriga yoyganda qanday alomat kuzatiladi?
+sin komponentaning yo’qolishi va barcha bn=0
+cos komponentaning yo’qolishi va barcha an=0
+Juft garmonikalarning yo’qolishi, ya’ni c2k=0
+Toq garmonikalarning yo’qolishi, ya’ni c2k-1=0
+Juft funksiyalarni Fur’e qatoriga yoyganda qanday alomat kuzatiladi?
+sin komponentaning yo’qolishi va barcha bn=0
+cos komponentaning yo’qolishi va barcha an=0
+Juft garmonikalarning yo’qolishi, ya’ni c2k=0
+Toq garmonikalarning yo’qolishi, ya’ni c2k-1=0
+Toq funksiyalarni Fur’e qatoriga yoyganda qanday alomat kuzatiladi?
+cos komponentaning yo’qolishi va barcha an=0
+sin komponentaning yo’qolishi va barcha bn=0
+Juft garmonikalarning yo’qolishi, ya’ni c2k=0
+Toq garmonikalarning yo’qolishi, ya’ni c2k-1=0
+Bazis funksiyalarning qanday sistemasi ortonormallashgan deb nomlanadi?
+Agar barcha (fi, fj) = {'{'}0, i &ne; j bo’lsa; 1, i = j bo’lsa{'}'}
+Agar barcha (fi, fj) = 0, i≠j bo’lsa.
+Agar barcha fi , || fi ||=1.
+Agar barcha fi,(t) uchun norma mavjud bo’lsa.
+Fur’e qatorida garmonika deb nimaga aytiladi va uning amplitudasi qanday topiladi?
+Fur’e qatorining n=k ga mos qo’shiluvchisiga, amplitudasi esa ck=sqrt((ak)2+(bk)2)
+Agar ak=0 bo’lsa, Fur’e qatori yig’indisi garmonika bo’ladi, amplitude esa ck=|bk|
+Agar bk=0 bo’lsa, Fur’e qatori yig’indisi garmonika bo’ladi, amplitude esa ck=|ak|
+Agar ak≠0 va bk≠0 bo’lsa, Fur’e qatori yig’indisi garmonika bo’ladi, amplitudasi esa ck=2πk/T
+Fur’e qatorida garmonika deb nimaga aytiladi va uning chastotasi qanday topiladi?
+Fur’e qatorining n=k ga mos qo’shiluvchisiga, chastotasi esa wk=k/T
+Agar ak=0 bo’lsa, Fur’e qatori yig’indisi garmonika bo’ladi, chastotasi esa wk=|bk|
+Agar bk=0 bo’lsa, Fur’e qatori yig’indisi garmonika bo’ladi, chastotasi esa wk=|ak|
+Agar ak≠0 va bk≠0 bo’lsa, Fur’e qatori yig’indisi garmonika bo’ladi, chastotasi esa wk=sqrt((ak)2+(bk)2)
+Fur’e qatorining yetakchi garmonikasi qanday aniqlanadi?
+Agar i≠k da ck&gt;&gt;ci bo’lsa, u holda k- garmonika yetakchi bo’ladi.
+Agar i≠k da ck&gt;ci bo’lsa, u holda k- garmonika yetakchi bo’ladi.
+Agar ck≠0 bo’lsa, u holda k- garmonika yetakchi bo’ladi.
+Agar ck&gt;1 bo’lsa, u holda k- garmonika yetakchi bo’ladi
+"
+Quyidagilardan qaysilari ikki parametrli bog’lanishli modellarga tegishli?
+1. Chiziqli model;
+2. Kvadratik model;
+3. Teskari proporsional bog’lanish;
+4. Ko’rsatgichli modelli bog’lanish.
+"
+1, 3, 4
+1, 2, 3
+2, 3, 4
+1, 2, 4
+y = a1
+ (a0)x ko’rsatgichli modelli bog’lanishni tashkil qilishda qanday o’zgartirishdan (ifodadan) foydalaniladi?
+ln y = ln a1
+ + x ln a0
+y – a1 = (a0)x
+y = a1
+ + a0
+ ln x
+ln y = ln a1
+ + a0
+ ln x
+"
+Nima sababdan jadval funksiyalarni approksimatsiya qilishda interpolatsion polinomlardan ko’p foydalanilmaydi?
+1. Tajribalar sonining oshishi bilan polinomning darajasi ham ortgani uchun;
+2. Hisoblash hajmi keskin ortishi sababli;
+3. Jadval qiymatlarida tuzatib bo’lmas xatoliklar uchrab turishi sababli;
+4. Tabiatda va texnikada boshqa murakkab bog’lanishli modellarning yo’qligi tufayli.
+"
+1,2, 3, 4
+1, 2, 3
+2, 3, 4
+1, 2, 4
+"
+Spektral analiz nima uchun kerak?
+1. Yetakchi chastotasini aniqlash uchun;
+2. Yetakchi garmonikalarning hossasini aniqlash;
+3. Signalni tozalash;
+4. Grafigini tuzish uchun.
+"
+1, 2, 3
+1, 3
+2, 3, 4
+1, 2, 4
+"
+Raqamli signallarni Fur’e qatoriga yoyish usuli qayerlarda ishlatiladi?
+1. Raqamli signallarni uzatuvchi va qabul qiluvchi zamonaviy uskunalarda;
+2. Geologik izlanishlarda foydali qazilmalarni topishda;
+3. Uzoq masofadagi planeta va yulduzlarning kimyoviy tarkibini aniqlashda.
+"
+1, 2, 3
+1, 2
+2, 3
+1, 3
+[a;b] oraliqda berilgan funksiya uchun skalyar ko’paytma qanday aniqlanadi?
+Berilgan oraliq bo’yicha ularning ko’paytmalarining integrali orqali.
+Berilgan oraliq bo’yicha ularning ayirmalarining integrali orqali.
+Berilgan oraliq bo’yicha ularning nisbatlarining integrali orqali.
+Funksiya uchun bunday operatsiya yo’q.
+Jadval funksiyani Fur’e qatoriga yoyish uchun u qanday ko’rinishda beriladi?
+[0;T] oraliqda jadaval qiymatlarini hisobga olgan holda bo’lakli doimiylar funksiyasi ko’rinishida.
+Jadaval funksiya shaklida berilgan ko’rinishda.
+Koordinata tekisligida jadval nuqtalarning bog’lanishidan iborat siniq chiziqlar funksiyasi ko’rinishda.
+Jadval qiymatlardan tuzilgan Interpolatsion polinom ko’rinishida
+[0;T] da ti=ih , f(ti)=fi , T=Nh, jadval funksiyani bo’lakli doimiylar ko’rinishiga o’tkazish qoidasini ko’rsating.
+f(t)=fi , bunda t€[ti–h/2; ti+h/2) i=1,2,3,…,N–1; f(t)=f0
+ , bunda t€[0; h/2) ; f(t)=fN , bunda t€(T–h/2; T].
+f(t)=fi–1
+ + (t–ti–1
+)( fi–fi–1
+) /h , bunda t€( ti–1
+; ti) , i=1,2,3,…,N.
+f(t)=fi , bunda t€( ti–1
+; ti) , i=1,2,3,…,N.
+f(t)=fi , bunda t€( ti; ti+1
+) , i=0,1,2,…,N–1.
+Jadval funksiya uchun chiziqli modelni hosil qilishda qanday qiymatlardan foydalaniladi?
+a va b ni toppish uchun хi , уi , (хi)2
+ va xi‧yi larning summalari (i=0,1,2,…,n), hamda n+1
+a va b ni toppish uchun хi , (хi)2
+ , (хi)3
+ va yi larning summalari (i=0,1,2,…,n).
+a va b ni toppish uchun уi , (хi)2 , (хi)3
+ va xi‧yi larning summalari (i=0,1,2,…,n), hamda 2n.
+a va b ni toppish uchun хi , уi , (хi)2
+ , (хi)3
+ va xi‧yi (i=0,1,2,…,n), hamda 2n+1.
+Chiziqli dasturlash masalasi ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan:
+(0;5)
+(12;1)
+(6;6)
+(4;6)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(0;8)
+(12;1)
+(6;16)
+(4;6)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(0;7)
+(12;1)
+(6;6)
+(4;6)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(0;5)
+(12;10)
+(6;6)
+(14;6)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(0;4)
+(1;4)
+(2;2)
+(4;3)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(0;9)
+(3;9)
+(2;2)
+(4;8)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(0;14)
+(2;14)
+(6;6)
+(4;6)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(13;0)
+(13;4)
+(12;0)
+(4;13)
+Chiziqli dasturlash masalasi ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan:
+(4;0)
+(4;1)
+(2;2)
+(3;4)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(9;0)
+(3;9)
+(2;2)
+(4;5)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(12;0)
+(12;1)
+(6;6)
+(4;6)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(0;5)
+(13;4)
+(4;2)
+(4;13)
+"
+Chiziqli dasturlash masalasi
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(11;0)
+(13;9)
+(2;2)
+(4;5)
+"
+Chiziqli dasturlash masalasi 
+ning tayanch yechimi qaysi qatorda tog’ri ko’rsatilgan: "
+(22;0)
+(12;12)
+(6;6)
+(9;6)
+Aniq integralni taqribiy hisoblashda To’g’ri to’rtburchak formulasi to'g'ri keltirilgan javobni ko'rsating
+Aniq integralni taqribiy hisoblashda Trapetsiya formulasi to'g'ri keltirilgan javobni ko'rsating
+Aniq integralni taqribiy hisoblashda Simpson formulasi to'g'ri keltirilgan javobni ko'rsating
+Fur’e qatorining bn
+ koeffisentni [0; T] oraliqda hisoblash formulasini ko’rsating
+Fur’e trigonometrik qatori formulasini ko’rsating
+Fur’e qatorining nolinchi indeksli a koeffisentni [0; T] oraliqda hisoblash formulasini ko’rsating
+a0
+ = f(t) / T
+Fur’e qatorining аn
+ koeffisentni [0; T] oraliqda hisoblash formulasini ko’rsating
+an
+ = n * f(t) / T
+NP masalalar sinfi nima?
+NP – polinom vaqtida tekshirilishi mumkin bo'lgan masalalar sinfi
+P - polinomda (kirish kattaligidan) vaqt ichida yechiladigan masalalar sinfi
+P – polinom vaqtida tekshirilishi mumkin bo'lgan masalalar sinfi
+NP - polinomda (kirish kattaligidan) vaqt ichida yechiladigan masalalar sinfi
+Algoritmlarni loyihalashning markaziy muammolaridan biri bu…
+P va NP sinflarning tengligi masalasi
+P va NP sinflarning tengmasligi masalasi
+P sinfining masalasi
+NP sinfining masalasi
+P sinfi NP sinfiga tegishlimi?
+Ha, tegishli. P sinfi NP sinfining bir qismidir
+Ha, tegishli. P sinfi NP sinfining to’ldiruvchi qismidir
+Yo’q, tegishli emas. P sinfi va NP sinfi alohida-alohida masalalar sinfidir
+Yo’q, tegishli emas. Ammo P sinfi va NP sinfi masalalar bir-birini to’ldiruvchi sinflardir
+NP sinfiga qanday turdagi masalalar kiradi?
+Determinallashmagan polynomial murakkablikka ega masalalar
+Polinomial murakkablikka ega masalalar
+Determinallashgan masalalar
+Yechimi topilishi oson bo’lgan masalalar
+Kommivoyajer masalasi – bu…
+Oldindan berilgan punktlarni minimal vaqt ichida yoki yo’lning minimal bo’lishiga erishgan holda aylanib o’tish masalasi
+Turli yuklarni ko’pchilik manbalardan turli manzillar bo’yichа yetkazib berish masalasi
+Mahsulotga ketgan xarajatlarni minimallashtirish masalasi
+Daromadni oshirish modelini qurish masalasi
+NP – to’liq masalalarni yechishda aniq usullarni ko’rsating
+To’liq qayta tanlash; Dinamik dasturlash; Tarmoqlar va chegaralar
+FF turidagi usullar
+Ochko’z va gradiyent usullar
+Tasodifiy usullar
+Agar grafda gamilton sikli bo’lmasa ... bo’ladi?
+Yechimlar to'plami bo'sh
+Yechimlar to'plami
+Qirra
+Shajara
+NP – to’liq masalalarni yechishda taqribiy usullarni ko’rsating
+Ochko’z va gradiyent usullar; Tasodifiy usullar; FF turidagi usullar
+To’liq qayta tanlash
+Dinamik dasturlash
+Tarmoqlar va chegaralar
+Quyidagi algoritmik baholashlarning qaysi biri eng kam vaqtda bajariladi?
+O(N)
+O(N^3)
+O(N^2)
+O(NlogN)
+A[5×5] va B[5×5] matritsalarni ko`paytirishda nechta amal bajariladi?
+225
+224
+223
+222
+A[2×3] va B[3×4] matritsalarni ko`paytirishda nechta amal bajariladi?
+40
+30
+20
+10
+A[5×3] va B[3×4] matritsalarni ko`paytirishda nechta amal bajariladi?
+100
+80
+60
+120
+A[4×4] va B[4×4] matritsalarni ko`paytirishda nechta amal bajariladi?
+112
+114
+100
+120
+A[3×3] va B[3×3] matritsalarni ko`paytirishda nechta amal bajariladi?
+45
+40
+25
+81
+A[2×2] va B[2×2] matritsalarni ko`paytirishda nechta amal bajariladi?
+12
+14
+84
+A[3×2] va B[2×3] matritsalarni ko`paytirishda nechta amal bajariladi?
+27
+9
+36
+10
+A[4×3] va B[3×2] matritsalarni ko`paytirishda nechta amal bajariladi?
+40
+72
+14
+20
+A[2×4] va B[4×2] matritsalarni ko`paytirishda nechta amal bajariladi?
+28
+16
+20
+32
+
+<br />
+<br />
+<br />
+
+</pre>
+
   </div>;
 }
 
